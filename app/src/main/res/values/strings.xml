@@ -1,0 +1,36 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Newsy</string>
+
+    <string name="sample_source">ABCD News • 1h</string>
+    <string name="sample_title">Bla Bla Bla</string>
+    <string name="sample_title_long">Bla Bla Bla</string>
+    <string name="sample_description">Bla Bla Bla</string>
+    <string name="image_desc">Image for the News Post</string>
+
+    <string name="title_headlines">Stories</string>
+    <string name="title_saved">Bookmarks</string>
+    <string name="title_sources">Channels</string>
+
+    <string name="image_desc_share_button">share button</string>
+    <string name="image_desc_save_button">save button</string>
+    <string name="image_desc_open_in_browser_button">open in browser button</string>
+    <string name="image_btn_desc_next">Next </string>
+    <string name="image_btn_desc_prev">Previous</string>
+    <string name="bottom_sheet_option_save">Bookmark</string>
+    <string name="bottom_sheet_option_share">Share</string>
+    <string name="bottom_sheet_option_open_in_browser">Read Full Story</string>
+    <string name="button_read_full_story">read full story</string>
+
+    <string name="image_desc_source_image">Source Image</string>
+    <string name="sample_category">General</string>
+
+    <string name="message_item_saved">Article added to Bookmarks</string>
+    <string name="message_item_removed">Article removed from Bookmarks</string>
+    <string name="info_no_saved_articles">No saved Bookmarks</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstital_ad_unit_id">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="admob_app_id">ca-app-pub-8093825129211349~1356213774</string>
+    <string name="sample_page">1/5</string>
+    <string name="test_device_id">39880E992207B833A48403D51A3FE9A9</string>
+</resources>
